@@ -1,0 +1,15 @@
+
+
+PROCEDURE dot_product(V1, V2)
+VAR
+  ps : ARRAY;
+  v1, v2 :INTEGER;
+  v1 := []
+  v2 := []
+BEGIN
+  FOR i FROM i < length(v1) DO
+    FOR j FROM j < length(v2) DO
+      ps = v1 * v2
+    END_FOR
+  END_FOR
+END
